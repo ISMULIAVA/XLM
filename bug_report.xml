@@ -1,1 +1,6 @@
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<body> 
+<title>The 'SAVE DATA' button is smaller than the others</title> 
+<severity>trivial</severity> 
+<priority>low</priority> 
+</body>
